@@ -1,4 +1,4 @@
 TransitionSample
 ================
 
-Uses TansitionKit. Just fire it up in Unity.
+Uses TansitionKit. Open the MainMenu scene and give it a run.
